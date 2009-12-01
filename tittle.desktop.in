@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Tittle
+Comment=Tittle application
+Categories=GNOME;Utility;
+Exec=tittle
+Icon=tittle
+Terminal=false
+Type=Application

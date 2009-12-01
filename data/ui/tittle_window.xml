@@ -1,0 +1,8 @@
+<glade-catalog name="tittle_window" domain="glade-3" 
+               depends="gtk+" version="1.0">
+  <glade-widget-classes>
+    <glade-widget-class title="Tittle Window" name="TittleWindow" 
+                        generic-name="TittleWindow" parent="GtkWindow"
+                        icon-name="widget-gtk-window"/>
+  </glade-widget-classes>
+</glade-catalog>
